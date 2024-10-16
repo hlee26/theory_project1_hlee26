@@ -1,0 +1,9 @@
+c A simple satisfiable 2-SAT problem
+p cnf 2 2
+1 -2 0
+-1 2 0
+c A simple unsatisfiable 2-SAT problem
+p cnf 2 3
+1 0
+-1 0
+2 0
